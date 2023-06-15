@@ -3,7 +3,7 @@ This project involves conducting statistical analysis on stock data by leveragin
 
 We'll be exploring the dataset in various statistical ways, as well as explorting the NVDA stock with different graphs: 
 
-Some of the thigns I did in the project are:
+Some of the exploration done in the project can be seen here:
 
 ### Closing prices:
 
